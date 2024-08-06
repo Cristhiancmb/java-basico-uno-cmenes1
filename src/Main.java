@@ -41,7 +41,6 @@ public class Main {
             System.out.println("El valor menor es: " + menor);
         }
 
-        // Cerrar el scanner
         scanner.close();
     }
 }*/
@@ -86,7 +85,6 @@ public class Main {
                 break;
         }
 
-        // Cerrar el scanner
         scanner.close();
     }
 }
