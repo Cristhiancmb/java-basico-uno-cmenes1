@@ -1,3 +1,4 @@
+//Ejercicio 1
 /*import java.util.Scanner;
 
 public class Main {
@@ -45,7 +46,7 @@ public class Main {
     }
 }*/
 
-
+//Ejercicio 2
 import java.util.Scanner;
 
 public class Main {
